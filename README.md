@@ -6,3 +6,6 @@ Further links could be found in the following list
 * Source codes and paper materials and installation: https://github.com/hzi-bifo/scelestial-paper-materials-devel
 * CRAN: https://cran.r-project.org/web/packages/RScelestial/index.html
 
+A schematic view of the algorithm is shown in the following image
+![Schematic representation of the Scelestial algorithm]([relative/path/in/repository/to/image.svg](https://journals.plos.org/ploscompbiol/article/figure/image?size=large&download=&id=10.1371/journal.pcbi.1009100.g009))
+

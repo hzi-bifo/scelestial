@@ -1,1 +1,1 @@
-Please refer to main github repository: (https://github.com/hzi-bifo/scelestial-paper-materials-devel)[https://github.com/hzi-bifo/scelestial-paper-materials-devel]
+Please refer to main github repository: https://github.com/hzi-bifo/scelestial-paper-materials-devel

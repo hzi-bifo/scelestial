@@ -7,5 +7,5 @@ Further links could be found in the following list
 * CRAN: https://cran.r-project.org/web/packages/RScelestial/index.html
 
 A schematic view of the algorithm is shown in the following image
-![Schematic representation of the Scelestial algorithm]([relative/path/in/repository/to/image.svg](https://journals.plos.org/ploscompbiol/article/figure/image?size=large&download=&id=10.1371/journal.pcbi.1009100.g009))
+![Schematic representation of the Scelestial algorithm](https://journals.plos.org/ploscompbiol/article/figure/image?size=large&download=&id=10.1371/journal.pcbi.1009100.g009)
 
